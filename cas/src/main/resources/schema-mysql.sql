@@ -1,0 +1,1 @@
+create table if not exists t_user(id int,name varchar(64) ,password varchar(64) );
